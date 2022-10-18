@@ -1,6 +1,6 @@
 {
-  "name": "@cyntler/react-doc-viewer",
-  "version": "1.7.0",
+  "name": "react-document-preview",
+  "version": "1.0.0",
   "description": "File viewer for React.",
   "author": "Matthew Mogford / Damian Cyntler",
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "license": "Apache License 2.0",
   "repository": {
-    "url": "https://github.com/cyntler/react-doc-viewer"
+    "url": "https://github.com/williamtran29/react-doc-viewer"
   },
   "files": [
     "dist/**"
@@ -28,7 +28,6 @@
   "dependencies": {
     "@types/mustache": "^4.2.1",
     "mustache": "^4.2.0",
-    "react-csv-to-table": "^0.0.4",
     "react-pdf": "5.7.2",
     "styled-components": "^5.3.5",
     "wl-msg-reader": "^0.2.0"
